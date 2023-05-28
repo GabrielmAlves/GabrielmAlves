@@ -1,5 +1,6 @@
 ## Olá, eu sou o Gabriel Alves
 - 🌱 Atualmente estou aperfeiçoando meu conhecimento em JavaScript e Java
+- 🧑‍💼Estagiário em testes de software
 - 📫 Contate-me no e-mail: gabrielmalves10@gmail.com
 
 <div>
