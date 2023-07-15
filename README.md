@@ -1,5 +1,5 @@
 ## Olá, eu sou o Gabriel Alves
-- 🌱 Atualmente estou aperfeiçoando meu conhecimento em JavaScript e Java
+- 🌱 Atualmente estou aperfeiçoando meu conhecimento em Machine Learning
 - 💼 Estagiário em testes de software
 - 📫 Contate-me no e-mail: gabrielmalves10@gmail.com
 
