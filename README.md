@@ -1,7 +1,8 @@
-## Olá, eu sou o Gabriel Alves
-- 🌱 Atualmente estou aperfeiçoando meu conhecimento em Machine Learning
-- 💼 Estagiário em testes de software
-- 📫 Contate-me no e-mail: gabrielmalves10@gmail.com
+## Welcome!
+- 🧑‍🎓 I'm a computer engineering student at PUC-Campinas
+- 💻 I'm currently improving my knowledge in machine learning
+- 💼 Software testing intern at SiDi
+- 📫 Contact me on: gabrielmalves10@gmail.com
 
 <div>
     <a href="https://github.com/GabrielmAlves">
