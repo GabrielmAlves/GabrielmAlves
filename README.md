@@ -1,5 +1,5 @@
 ## Welcome!
-- 🧑‍🎓 I'm a computer engineering student at PUC-Campinas
+- 🧑‍🎓 I'm a computer engineer
 - 💻 I'm currently improving my knowledge in machine learning and natural language processing
 - 💼 Software development intern at SiDi
 - 📫 Contact me on: gabrielmalves10@gmail.com
