@@ -1,8 +1,8 @@
 ## Welcome!
 - 🧑‍🎓 I'm a computer engineer
-- 💻 I'm currently improving my knowledge in machine learning and natural language processing
-- 💼 Junior software developer at SiDi
-- 📫 Contact me on: gabrielmalves10@gmail.com
+- 💻 I'm currently improving my knowledge in machine learning and software engineering best practices
+- 💼 Junior software developer at Sidi
+- 📫 Contact me on: engcomp.gabriel@gmail.com
 
 <div>
     <a href="https://github.com/GabrielmAlves">
@@ -14,8 +14,6 @@
  ##
  
  <div> 
-  <a href="https://instagram.com/_gabrielmalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielmalves10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-morais-alves-a6b57a21a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
