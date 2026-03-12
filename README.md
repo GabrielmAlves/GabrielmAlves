@@ -1,7 +1,7 @@
 ## Welcome!
 - 🧑‍🎓 I'm a computer engineer
 - 💻 I'm currently improving my knowledge in machine learning and software engineering best practices
-- 💼 Junior software developer at Sidi
+- 💼 Junior software engineer at Itaú
 - 📫 Contact me on: engcomp.gabriel@gmail.com
  
  <div> 
